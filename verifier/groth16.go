@@ -3,10 +3,11 @@ package verifier
 import (
 	"encoding/json"
 	"fmt"
+	bn256 "github.com/iden3/go-rapidsnark/verifier/bn256/cloudflare"
 	"math/big"
 
 	"github.com/Coursant/Core_rapidsnark/types"
-	"github.com/Coursant/Core_rapidsnark/verifier/bn256"
+
 	"github.com/iden3/go-iden3-crypto/constants"
 )
 

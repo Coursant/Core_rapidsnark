@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
+	bn256 "github.com/iden3/go-rapidsnark/verifier/bn256/cloudflare"
 	"math/big"
 	"strings"
 
 	"github.com/Coursant/Core_rapidsnark/types"
-	"github.com/Coursant/Core_rapidsnark/verifier/bn256"
 )
 
 // proofPairingData describes three components of zkp proof in bn256 format.
