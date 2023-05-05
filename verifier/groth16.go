@@ -3,7 +3,7 @@ package verifier
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Coursant/Core_rapidsnark/go-rapidsnark/verifier/bn256"
+	"github.com/Coursant/Core_rapidsnark/verifier/bn256"
 	"math/big"
 
 	"github.com/Coursant/Core_rapidsnark/types"

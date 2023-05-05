@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	"github.com/Coursant/Core_rapidsnark/go-rapidsnark/verifier/bn256"
+	"github.com/Coursant/Core_rapidsnark/verifier/bn256"
 	"math/big"
 	"strings"
 
