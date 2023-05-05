@@ -106,6 +106,7 @@ func Groth16ProverRaw(zkey []byte,
 			}
 			publicBuffer = make([]byte, publicBufSize)
 			repeat = true
+
 		} else {
 			publicInputs = string(publicBuffer[:idx])
 		}
