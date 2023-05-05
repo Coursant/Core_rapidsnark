@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	bn256 "github.com/iden3/go-rapidsnark/verifier/bn256/cloudflare"
+	"github.com/Coursant/Core_rapidsnark/go-rapidsnark/verifier/bn256"
 	"math/big"
 	"strings"
 
