@@ -1,4 +1,4 @@
-module github.com/iden3/go-rapidsnark/witness
+module github.com/Coursant/Core_rapidsnark/witness
 
 go 1.18
 
