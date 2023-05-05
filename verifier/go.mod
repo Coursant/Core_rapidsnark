@@ -1,4 +1,4 @@
-module github.com/iden3/go-rapidsnark/verifier
+module github.com/Coursant/Core_rapidsnark/go-rapidsnark/verifier
 
 go 1.18
 
