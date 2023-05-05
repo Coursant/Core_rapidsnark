@@ -1,3 +1,3 @@
-module github.com/Coursant/Core_rapidsnark/types/v1.0.1
+module github.com/Coursant/Core_rapidsnark/types
 
 go 1.18
